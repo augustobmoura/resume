@@ -1,0 +1,109 @@
+basics:
+  name: Augusto Borges Moura
+  email: augusto.borgesm@gmail.com
+  label: Software Engineer
+  summary: >
+    Computer passionate since childhood, from breadboards to software
+    development to services orchestration. Really love programming and being 
+    challenged to learn something new
+  location:
+    countryCode: BR
+    city: Goiânia
+    region: Goiás
+  profiles:
+    - network: Github
+      username: augustobmoura
+      url: https://github.com/augustobmoura
+work:
+  - company: Indra
+    url: https://www.indracompany.com/
+    position: Junior Web Developer
+    startDate: 2016-06-01
+    endDate: 2017-05-01
+    location: Goiânia, GO, Brazil
+    description: >
+      Worked developing web applications, mostly Java on the backend and a
+      multitude of frontend technologies. Wrote RESTful APIs and AngularJS
+      reusable components. Teamed up with 10+ excelling developers to deliver
+      complex and challenging projects.
+    highlights:
+      - Directed the project in AngularJS from a traditional MVC to more modern reusable web components 
+
+  - company: ZGSoluções
+    url: https://zgsolucoes.com.br/
+    position: Software Engineer
+    startDate: 2017-05-01
+    location: Goiânia, GO, Brazil
+    description: >
+      Software Engineer for the New Products Team. Worked with the Grails 
+      framework with the Groovy language and Angular 2+. Wrote and organized
+      Angular theme and client libraries to be utilized by various projects. 
+      Helped develop and improve REST APIs developed in Grails and Java, using 
+      PostgreSQL as the database. Helped to take decisions in bring 
+      microservices technologies for new projects, like Micronaut for services,
+      Apache Kafka for communication and Kubernetes for service orchestration
+    highlights:
+      - Bootstraped various frontend projects, mostly in Angular
+      - Helped to take decisions and bootstrap a microservices architecture in the company
+education:
+  - instituition: Federal University of Goiás
+    url: https://www.ufg.br/
+    area: Software Engineering
+    studyType: Bachelor
+    startDate: 2016-03-01
+
+  - instituition: Federal Institute of Education, Science and Technology of Goiás
+    url: https://ifg.edu.br/
+    area: Construction Technician
+    studyType: Technician
+    startDate: 2012-04-24
+    endDate: 2015-12-21
+skills:
+  - name: JavaScript Development
+    level: Master
+    keywords:
+      - ES2015+
+      - Typescript
+      - Design Patterns
+      - Tooling
+      - Deep language understanding (to the parsing level)
+  - name: Functional Programming
+    level: Advanced
+    keywords:
+      - Haskell
+      - Clojure
+      - Scala
+      - Functional Javascript/Typescript
+      - I understand Monads (although cannot explain it)
+  - name: Frontend Development
+    level: Master
+    keywords:
+      - Frontend frameworks (Angular/React)
+      - CSS3+
+      - HTML5+
+      - SEO
+      - Semantic Web
+  - name: Backend Development
+    level: Master
+    keywords:
+      - REST
+      - GraphQL
+      - WebSockets
+      - Databases and persistence
+      - Java
+      - NodeJS
+  - name: Devops/Sysadmin
+    level: Intermediate
+    keywords:
+      - Unix systems
+      - Shell scripting
+      - Docker
+      - Kubernetes
+      - Service Orchestration
+languages:
+  - language: Portuguese
+    fluency: Native
+  - language: English
+    fluency: Advanced
+  - language: Spanish
+    fluency: Beginner
